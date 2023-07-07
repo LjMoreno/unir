@@ -1,0 +1,11 @@
+[
+  { "partido": "PP", "votantes": 302 },
+  { "partido": "PSOE", "votantes": 260 },
+  { "partido": "IU", "votantes": 160 },
+  { "partido": "UPyD", "votantes": 117 },
+  { "partido": "Ciudadanos", "votantes": 200 },
+  { "partido": "Podemos", "votantes": 235 },
+  { "partido": "Convergència (CDC)", "votantes": 80 },
+  { "partido": "ERC", "votantes": 169 },
+  { "partido": "ICV", "votantes": 145 }
+]
